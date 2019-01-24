@@ -1,5 +1,5 @@
 {
-    "name": "laravel-enso/rolemanager",
+    "name": "boing6002/rolemanager",
     "description": "Role Manager dependency for Laravel Enso",
     "keywords": [
         "laravel-enso",
@@ -20,15 +20,15 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "laravel-enso/core": "3.5.*",
-        "laravel-enso/formbuilder": "2.12.*",
-        "laravel-enso/helpers": "1.10.*",
-        "laravel-enso/menumanager": "2.3.*",
-        "laravel-enso/permissionmanager": "2.3.*",
-        "laravel-enso/select": "2.8.*",
-        "laravel-enso/structuremanager": "2.5.*",
-        "laravel-enso/vuecomponents": "2.7.*",
-        "laravel-enso/vuedatatable": "1.9.*"
+        "boing6002/core": "dev-master",
+        "boing6002/formbuilder": "dev-master",
+        "boing6002/helpers": "dev-master",
+        "boing6002/menumanager": "dev-master",
+        "boing6002/permissionmanager": "dev-master",
+        "boing6002/select": "dev-master",
+        "boing6002/structuremanager": "dev-master",
+        "boing6002/vuecomponents": "dev-master",
+        "boing6002/vuedatatable": "dev-master"
     },
     "autoload": {
         "psr-4": {
